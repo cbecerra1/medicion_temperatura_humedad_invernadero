@@ -1,6 +1,9 @@
 # imagenes usadas de referencia
 /imagenes_apoyo
 
+# Documentos de apoyo
+/esquematico
+
 # Environments
 .env
 .venv
