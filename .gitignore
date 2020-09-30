@@ -1,0 +1,11 @@
+# imagenes usadas de referencia
+/imagenes_apoyo
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
